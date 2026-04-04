@@ -46,6 +46,8 @@ Currently working on **HealixAI**, an AI-powered health diagnosis system designe
 
 * Portfolio: https://zahedshaikh.vercel.app
 * LinkedIn: https://www.linkedin.com/in/zahed-shaikh/
+* X: https://x.com/zahedshaikh_ai
+* Peerlist: https://peerlist.io/zahedshaikhai
 
 ---
 
