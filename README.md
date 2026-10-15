@@ -145,13 +145,10 @@ A data analytics application that groups customers into meaningful segments to s
 
 - **Portfolio:** [zahedshaikh.vercel.app](https://zahedshaikh.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/zahed-shaikh](https://www.linkedin.com/in/zahed-shaikh/)
-- **GitHub:** [github.com/zahedshaikh-ai](https://github.com/zahedshaikh-ai)
 - **Hugging Face:** [huggingface.co/zahed2025](https://huggingface.co/zahed2025)
 - **Kaggle:** [kaggle.com/zahedshaikh9](https://www.kaggle.com/zahedshaikh9)
-- **Devpost:** [devpost.com/zahed-ai](https://devpost.com/zahed-ai)
 - **Peerlist:** [peerlist.io/zahedshaikhai](https://peerlist.io/zahedshaikhai)
 - **X:** [x.com/zahedshaikh_ai](https://x.com/zahedshaikh_ai)
-- **YouTube:** [AI for Productivity](https://www.youtube.com/@aiforproductivity-f5i)
 
 ---
 
