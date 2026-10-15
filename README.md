@@ -126,7 +126,6 @@ A data analytics application that groups customers into meaningful segments to s
 - FlyRank AI — Machine Learning Engineering Internship and project-based learning
 - Additional AI, Machine Learning, and Google AI coursework
 
-*Please refer to the relevant credential pages for exact course titles and completion status.*
 
 ---
 
